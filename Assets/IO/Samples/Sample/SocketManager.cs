@@ -23,7 +23,7 @@ public class SocketManager : MonoBehaviour
     void Start()
     {
         //TODO: check the Uri if Valid.
-        var uri = new Uri("http://192.168.1.107:11100");
+        var uri = new Uri("http://localhost:11100");
         socket = new SocketIOUnity(uri, new SocketIOOptions
         {
             Query = new Dictionary<string, string>
