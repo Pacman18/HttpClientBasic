@@ -56,5 +56,29 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "UnityServerClass.sln"
+    "dotnet.defaultSolution": "UnityServerClass.sln",
+    "dotrush.roslyn.projectOrSolutionFiles": [
+        "c:\\Work\\UnityServerClass\\Library\\PackageCache\\com.unity.entities@8b72e8a7d7d1\\Unity.Entities\\SourceGenerators\\Source~\\SourceGenerators.sln",
+        "c:\\Work\\UnityServerClass\\UnityServerClass.sln",
+        "c:\\Work\\UnityServerClass\\Library\\PackageCache\\com.unity.entities@8b72e8a7d7d1\\Unity.Entities\\SourceGenerators\\Source~\\AspectGenerator\\AspectGenerator.csproj",
+        "c:\\Work\\UnityServerClass\\Assembly-CSharp-Editor.csproj",
+        "c:\\Work\\UnityServerClass\\Assembly-CSharp.csproj",
+        "c:\\Work\\UnityServerClass\\Library\\PackageCache\\com.unity.entities@8b72e8a7d7d1\\Unity.Entities\\SourceGenerators\\Source~\\Common\\Common.csproj",
+        "c:\\Work\\UnityServerClass\\Library\\PackageCache\\com.unity.entities@8b72e8a7d7d1\\Unity.Entities\\SourceGenerators\\Source~\\JobEntityGenerator\\JobEntityGenerator.csproj",
+        "c:\\Work\\UnityServerClass\\Library\\PackageCache\\com.unity.entities@8b72e8a7d7d1\\Unity.Entities\\SourceGenerators\\Source~\\SystemGenerator.Common\\SystemGenerator.Common.csproj",
+        "c:\\Work\\UnityServerClass\\Library\\PackageCache\\com.unity.entities@8b72e8a7d7d1\\Unity.Entities\\SourceGenerators\\Source~\\SystemGenerator\\SystemGenerator.csproj",
+        "c:\\Work\\UnityServerClass\\Library\\PackageCache\\com.unity.entities@8b72e8a7d7d1\\Unity.Entities\\SourceGenerators\\Source~\\SystemGenerator.EntityQueryBulkOperations\\SystemGenerator.EntityQueryBulkOperations.csproj",
+        "c:\\Work\\UnityServerClass\\Library\\PackageCache\\com.unity.entities@8b72e8a7d7d1\\Unity.Entities\\SourceGenerators\\Source~\\SystemGenerator.LambdaJobs\\SystemGenerator.LambdaJobs.csproj",
+        "c:\\Work\\UnityServerClass\\Library\\PackageCache\\com.unity.entities@8b72e8a7d7d1\\Unity.Entities\\SourceGenerators\\Source~\\SystemGenerator.SystemAPI\\SystemGenerator.SystemAPI.csproj",
+        "c:\\Work\\UnityServerClass\\Library\\PackageCache\\com.unity.entities@8b72e8a7d7d1\\Unity.Entities\\SourceGenerators\\Source~\\SystemGenerator.SystemAPI.Query\\SystemGenerator.SystemAPI.Query.csproj",
+        "c:\\Work\\UnityServerClass\\Library\\PackageCache\\com.unity.entities@8b72e8a7d7d1\\Unity.Entities\\SourceGenerators\\Source~\\SystemGenerator.SystemAPI.QueryBuilder\\SystemGenerator.SystemAPI.QueryBuilder.csproj",
+        "c:\\Work\\UnityServerClass\\Library\\PackageCache\\com.unity.entities@8b72e8a7d7d1\\Unity.Entities\\SourceGenerators\\Source~\\SystemGeneratorTests\\Tests.csproj",
+        "c:\\Work\\UnityServerClass\\Library\\PackageCache\\com.unity.entities@8b72e8a7d7d1\\Unity.Entities\\SourceGenerators\\Source~\\Mock\\Unity.Burst.Mock\\Unity.Burst.Mock.csproj",
+        "c:\\Work\\UnityServerClass\\Library\\PackageCache\\com.unity.entities@8b72e8a7d7d1\\Unity.Entities\\SourceGenerators\\Source~\\Mock\\Unity.Collections.Mock\\Unity.Collections.Mock.csproj",
+        "c:\\Work\\UnityServerClass\\Library\\PackageCache\\com.unity.entities@8b72e8a7d7d1\\Unity.Entities\\SourceGenerators\\Source~\\EntitiesAnalyzer\\Unity.Entities.Analyzer.CodeFixes\\Unity.Entities.Analyzer.CodeFixes.csproj",
+        "c:\\Work\\UnityServerClass\\Library\\PackageCache\\com.unity.entities@8b72e8a7d7d1\\Unity.Entities\\SourceGenerators\\Source~\\EntitiesAnalyzer\\Unity.Entities.Analyzer\\Unity.Entities.Analyzer.csproj",
+        "c:\\Work\\UnityServerClass\\Library\\PackageCache\\com.unity.entities@8b72e8a7d7d1\\Unity.Entities\\SourceGenerators\\Source~\\EntitiesAnalyzer\\Unity.Entities.Analyzer.Test\\Unity.Entities.Analyzer.Test.csproj",
+        "c:\\Work\\UnityServerClass\\Library\\PackageCache\\com.unity.entities@8b72e8a7d7d1\\Unity.Entities\\SourceGenerators\\Source~\\Mock\\Unity.Entities.Hybrid.Mock\\Unity.Entities.Hybrid.Mock.csproj",
+        "c:\\Work\\UnityServerClass\\Library\\PackageCache\\com.unity.entities@8b72e8a7d7d1\\Unity.Entities\\SourceGenerators\\Source~\\Mock\\Unity.Entities.Mock\\Unity.Entities.Mock.csproj"
+    ]
 }
